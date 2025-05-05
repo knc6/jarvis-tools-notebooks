@@ -8,6 +8,7 @@
 * [JARVIS-School](#school)
 * [AI tutorial](#ai)
 * [QC tutorial](#qc)
+* [EXP tutorial](#exp)
 * [NanoHub tutorial](#nanohub)
 * [References](#refs)
 * [How to contribute](#contrib)
@@ -133,6 +134,9 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 1) [With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
 2) [With old qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_.ipynb)
 
+<a name="exp"></a>
+# Experiment related tutorials
+1) [XRD Matching](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/XRD_Matching.ipynb)
 
 
 <a name="nanohub"></a>
