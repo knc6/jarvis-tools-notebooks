@@ -126,6 +126,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 38) [ALIGNN-FF Melt Quench](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Fast_Melt_Quench.ipynb)
 39) [Basic external tutorial on linear models](training_linear_models)
 40) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
+41) [CHIPS-FF: Evaluation of universal machine learning force-fields](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/chipsff_example.ipynb)
 
 
 <a name="qc"></a>
