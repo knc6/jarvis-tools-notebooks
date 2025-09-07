@@ -2,6 +2,7 @@
 
 # Table of Contents
 * [Introduction](#intro)
+* [Mini-course](#mini)
 * [Basics](#basics)
 * [ES tutorial](#es)
 * [FF/MC related tutorial](#es)
@@ -24,6 +25,36 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 Slides: [SlideShare](https://www.slideshare.net/KAMALCHOUDHARY4) [https://github.com/knc6/slides](https://github.com/knc6/slides) 
 
 📺 YouTube videos: [https://www.youtube.com/@dr_k_choudhary](https://www.youtube.com/@dr_k_choudhary)
+
+<a name="mini"></a>
+# Mini-course collection
+
+Later you'll find a large collection of notebooks related to JARVIS/Materials design. Here are a handful selected notebooks to get a quick start. These were also presented at the [NIST-AIMS workshop](http://jarvis.nist.gov/events/aims).
+### JARVIS-DFT:
+
+1. [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
+
+
+### ALIGNN:
+
+2. [Basic_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
+
+### AtomGPT:
+
+3. [AtomGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
+
+4. [DiffractGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/DiffractGPT_example.ipynb)
+
+5. [MicroscopyGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MicroscopyGPT.ipynb)
+
+### Machine Learning Force Fields:
+6. ([open in colab](https://colab.research.google.com/github/usnistgov/aims_workshop/blob/main/tutorials/intro-gnn-potentials.ipynb))
+
+### CHIPS-FF:
+
+7. [CHIPS_FF_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/chipsff_example.ipynb)
+
+
 
 <a name="basics"></a>
 # Basics
