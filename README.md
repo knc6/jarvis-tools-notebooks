@@ -55,6 +55,9 @@ Later you'll find a large collection of notebooks related to JARVIS/Materials de
 
 8. [CHIPS_FF_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/chipsff_example.ipynb)
 
+### Scaling test:
+
+8. [Sacling ALIGNN/SlaKoNet](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/scaling_analysis.ipynb)
 
 
 <a name="basics"></a>
