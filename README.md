@@ -57,7 +57,7 @@ Later you'll find a large collection of notebooks related to JARVIS/Materials de
 
 ### Scaling test:
 
-8. [Sacling ALIGNN/SlaKoNet](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/scaling_analysis.ipynb)
+9. [Scaling ALIGNN/SlaKoNet](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/scaling_analysis.ipynb)
 
 
 <a name="basics"></a>
